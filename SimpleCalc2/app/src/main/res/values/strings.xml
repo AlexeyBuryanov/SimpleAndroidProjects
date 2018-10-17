@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="exit">Выход</string>
+    <string name="about">О программе...</string>
+</resources>

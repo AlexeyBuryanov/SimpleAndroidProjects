@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleAudioPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">play</string>
+    <string name="stop">stop</string>
+    <string name="tire">-</string>
+</resources>

@@ -1,0 +1,21 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.alexey.simplecalc2.MainActivity">
+
+    <item
+        android:id="@+id/menuItemExit"
+        android:icon="@mipmap/ic_exit_to_app_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/exit"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/menuItemAbout"
+        android:orderInCategory="99"
+        app:showAsAction="never"
+        android:icon="@mipmap/ic_help_black_24dp"
+        android:title="@string/about"
+        />
+</menu>

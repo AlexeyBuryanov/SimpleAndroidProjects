@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleDraw</string>
+    <string name="exit">Выход</string>
+    <string name="settings">Настройки…</string>
+    <string name="fileName">Имя файла</string>
+    <string name="save">Сохранить</string>
+    <string name="goToDraw">Перейти к рисованию</string>
+    <string name="apply">Применить</string>
+    <string name="width">Толщина</string>
+</resources>

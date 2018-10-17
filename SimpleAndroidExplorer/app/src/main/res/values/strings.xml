@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simple Android Explorer</string>
+    <string name="exit">Выход</string>
+    <string name="icon">Icon</string>
+    <string name="fileName">Имя файла</string>
+    <string name="type">Тип</string>
+    <string name="length">Размер</string>
+    <string name="back">Назад</string>
+    <string name="sys">System</string>
+    <string name="createFiles">Текстовый файл…</string>
+    <string name="title_activity_create_files">Текстовый файл</string>
+    <string name="sd">SD-карта</string>
+    <string name="appFolder">Папка приложения</string>
+    <string name="save">Сохранить</string>
+    <string name="open">Открыть</string>
+    <string name="content">Контент…</string>
+    <string name="goOver">Перейти в</string>
+    <string name="view">Вид</string>
+    <string name="table">Таблица</string>
+    <string name="grid">Сетка</string>
+</resources>

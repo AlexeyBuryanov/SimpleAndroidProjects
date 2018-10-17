@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeSwitch</string>
+    <string name="periodStr">Период обновления (миллисекунд)</string>
+    <string name="apply">Применить</string>
+</resources>

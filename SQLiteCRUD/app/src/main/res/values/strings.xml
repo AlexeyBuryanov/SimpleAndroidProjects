@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SQLiteCRUD</string>
+    <string name="headerIdUnderline"><u>Id</u></string>
+    <string name="headerFirstNameUnderline"><u>Имя</u></string>
+    <string name="headerMiddleNameUnderline"><u>Фамилия</u></string>
+    <string name="headerAddressUnderline"><u>Адрес</u></string>
+    <string name="headerGenderUnderline"><u>Пол</u></string>
+
+    <string name="headerId">Id</string>
+    <string name="headerFirstName">Имя</string>
+    <string name="headerMiddleName">Фамилия</string>
+    <string name="headerAddress">Адрес</string>
+    <string name="headerGender">Пол</string>
+    <string name="filter">Фильтр…</string>
+</resources>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TableLayoutPeople</string>
+    <string name="exit">Выход</string>
+    <string name="add">Добавить</string>
+    <string name="remove">Удалить</string>
+    <string name="fullname">FullName</string>
+    <string name="phone">Phone</string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+
+    <string-array name="fullNames">
+        <item>Nazarov</item>
+        <item>Назаров Е. Б.</item>
+        <item>Сморчкова В. А.</item>
+        <item>Ерофеева З. А.</item>
+        <item>Антонов Е. М.</item>
+        <item>Веселков И. Л.</item>
+        <item>Фомов А. М.</item>
+    </string-array>
+    <string-array name="phones">
+        <item>8 (903) 668-13-66</item>
+        <item>8 (952) 935-68-68</item>
+        <item>8 (963) 188-21-43</item>
+        <item>8 (905) 800-19-84</item>
+        <item>8 (901) 221-12-43</item>
+        <item>8 (916) 737-68-48</item>
+    </string-array>
+    <string-array name="genders">
+        <item>мужской</item>
+        <item>М</item>
+        <item>женский</item>
+        <item>Ж</item>
+    </string-array>
+    <string-array name="addresses">
+        <item>ул. Маршала Конева, д 31</item>
+        <item>ул. Королёва, д 36, к 253</item>
+        <item>ул. Хрущёва, д 70, к 205</item>
+        <item>ул. Баженова, д 24, к 151</item>
+        <item>ул. Садовая, д 24, к 151</item>
+        <item>ул. Садовая, д 28, к 159</item>
+        <item>ул. Садовая, д 20, к 67</item>
+        <item>ул. Садовая, д 32, к 100</item>
+    </string-array>
+</resources>

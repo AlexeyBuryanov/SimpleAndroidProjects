@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.alexey.simpleandroidexplorer.CreateFilesActivity">
+    <item
+        android:id="@+id/menuItemBackToMain"
+        android:orderInCategory="100"
+        android:title="@string/back"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/menuItemOpen"
+        android:orderInCategory="100"
+        android:title="@string/open"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/menuItemSave"
+        android:orderInCategory="100"
+        android:title="@string/save"
+        app:showAsAction="never"
+        />
+</menu>
